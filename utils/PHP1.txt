@@ -1,0 +1,12 @@
+/bbs/s8servu.php
+/s8servu.php
+/wish.php
+/s8wish.php
+/register.php
+/syssite/install/ini_setup.php
+/admin888/admin.php
+/fonts/login.php
+/syssite/shopadmin/core.php
+/beingmate_in.php
+/FCKeditor/editor/filemanager/upload/php/upload.php
+/index.php
